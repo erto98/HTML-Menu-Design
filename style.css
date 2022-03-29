@@ -45,6 +45,21 @@ body{
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.menu2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-evenly;
+}
+.menu3{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-evenly;
+}
+.menu4{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-evenly;
+}
 
 .single-menu{
 	flex-basis: 580px;
