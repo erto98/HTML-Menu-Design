@@ -277,9 +277,36 @@ img:hover{
     font-size: 30px;
     color: #ecf0f1;
     text-shadow: 2px 2px 4px #000000;
+    font-family: "Cherry Swash", fantasy;
+  }
+  h2 {
+    text-align: center;
+    margin: 40px 0 40px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: "Cherry Swash", sans-serif;
+  }
+  h3 {
+    text-align: center;
+    margin: 40px 0 40px;
+    text-align: center;
+    font-size: 30px;
+    color: #2bd6b4;
+    text-shadow: 2px 2px 4px #000000;
     font-family: "Cherry Swash", cursive;
   }
-  
+
+  span {
+    text-align: center;
+    margin: 40px 0 40px;
+    text-align: center;
+    font-size: 30px;
+    color: #2bd6b4;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: "Cherry Swash", cursive;
+  }
   h6 {
     position: absolute;
     bottom: 20px;
@@ -288,9 +315,5 @@ img:hover{
     color: #ecf0f1;
     font-family: "Cherry Swash", cursive;
     font-size: 16px;
-  }
-  
-  span {
-    color: #2bd6b4;
   }
   
